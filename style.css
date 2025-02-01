@@ -1,0 +1,12 @@
+body{
+    background-image: url(./flower\ background\ image.jpg);
+    margin: 400px;
+   
+
+}
+div{
+    background-color: rgba(221, 111, 139, 0.3);
+padding: 5px;
+font-size: 22px;
+font-weight: bold;
+}
